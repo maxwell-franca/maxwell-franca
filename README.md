@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/34938586/README.3.md)
 # Olá 👋, eu sou Maxwell França
 
 🚀 **Contador & Administrador | IA, Automação e Sistemas Embarcados**  
