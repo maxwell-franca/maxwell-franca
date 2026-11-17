@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Maxwell França
 
-🚀 **Contador & Administrador | IA, Automação e Sistemas Embarcados**  
+🚀 **Estudante de Administração e Contabilidade | IA, Automação e Sistemas Embarcados**  
 🇧🇷 São Luís – MA, Brasil
 
 Sou apaixonado por **tecnologia, IA local, automação e projetos embarcados**.  
@@ -27,7 +27,7 @@ Não atuo como dev, mas uso código, agentes e automações para **transformar p
 ## 🧠 O que eu faço
 
 - 🤖 Automações com **n8n**, agentes de IA e webhooks
-- 🏠 **IA local** com Ollama (Qwen 2.5) rodando em Docker, sem enviar dados para fora
+- 🏠 **IA local** com Ollama rodando em Docker, sem enviar dados para fora
 - ✨ **Vibe coding** de apps com Lovable e Python
 - 📟 Projetos **embarcados com ESP32** (C++/Arduino)
 - 📊 Análise financeira, inadimplência e relatórios gerenciais
